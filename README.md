@@ -91,9 +91,6 @@ for (char, frequency) in freq:
 
 
 
-## Result
-Thus , the huffman coding was implemented to compress the data using python programming.
-
 
 
 
